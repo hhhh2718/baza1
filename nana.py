@@ -1,1 +1,2 @@
 print("hohoho")
+print("пиздец")
